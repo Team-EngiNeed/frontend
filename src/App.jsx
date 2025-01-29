@@ -238,6 +238,7 @@ function App() {
           }
         />
         {/* Other routes */}
+        <Route path="/" element={<Navigate to="/login" />} />
         <Route path="/note/executive/:id" element={<Note />} />
         <Route path="/note/nurse/:id" element={<Note />} />
         <Route path="/note/labtech/:id" element={<Note />} />
