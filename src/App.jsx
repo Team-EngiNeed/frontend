@@ -28,7 +28,7 @@ function RegisterandLogout() {
 
 function App() {
   return (
-    <BrowserRouter basename="/frontend/">
+    <BrowserRouter basename="/frontend">
       <Routes>
         <Route
           path="/executive"
