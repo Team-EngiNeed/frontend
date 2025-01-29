@@ -48,7 +48,7 @@
   min-height: 100vh;
   background:
     linear-gradient(rgba(8, 0, 58, 0.7), rgba(8, 0, 58, 0.7)),
-    url('./assets/BG.jpg');
+    url('../assets/BG.jpg');
   background-size: cover;
   background-position: center;
   display: flex;
