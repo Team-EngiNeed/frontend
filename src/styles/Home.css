@@ -12,7 +12,7 @@
   min-height: 100vh;
   background:
     linear-gradient(rgba(8, 0, 58, .7), rgba(8, 0, 58, .7)),
-    url('/fronted/src/assets/BG.jpg');
+    url('./assets/BG.jpg');
   background-size: cover;
   background-position: center;
   color: var(--text-clr);
